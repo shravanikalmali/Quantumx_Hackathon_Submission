@@ -1,4 +1,4 @@
-# Quantum-Assisted Emergency Intelligence Platform
+# One-stop Quantum-Assisted Emergency & Disaster Intelligence Platform for urban areas
 **Multimodal Emergency Intelligence + Semantic Event Fusion + Predictive Escalation + QAOA Resource Allocation + PQC Secure Dispatch + Operations Dashboard**
 
 ## Problem
