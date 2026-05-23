@@ -1,0 +1,692 @@
+{
+  "Yelahanka": {
+    "area": "Yelahanka",
+    "total_cases": 172,
+    "fatal_cases": 48,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.27906976744186046,
+    "historical_risk_score": 0.8230534022394486,
+    "risk_label": "critical",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "K.Swamy Lyt.": {
+    "area": "K.Swamy Lyt.",
+    "total_cases": 140,
+    "fatal_cases": 45,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.32142857142857145,
+    "historical_risk_score": 0.760241402116402,
+    "risk_label": "critical",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Chikjala": {
+    "area": "Chikjala",
+    "total_cases": 189,
+    "fatal_cases": 32,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.1693121693121693,
+    "historical_risk_score": 0.7399206349206348,
+    "risk_label": "high",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Kamakshipalya": {
+    "area": "Kamakshipalya",
+    "total_cases": 157,
+    "fatal_cases": 33,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.21019108280254778,
+    "historical_risk_score": 0.6975201993394667,
+    "risk_label": "high",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Airport": {
+    "area": "Airport",
+    "total_cases": 143,
+    "fatal_cases": 34,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.23776223776223776,
+    "historical_risk_score": 0.6846603859103858,
+    "risk_label": "high",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Devanahalli": {
+    "area": "Devanahalli",
+    "total_cases": 168,
+    "fatal_cases": 23,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.13690476190476192,
+    "historical_risk_score": 0.6449206349206349,
+    "risk_label": "high",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Electronic City": {
+    "area": "Electronic City",
+    "total_cases": 129,
+    "fatal_cases": 27,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.20930232558139536,
+    "historical_risk_score": 0.6141650516795865,
+    "risk_label": "high",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Peenya": {
+    "area": "Peenya",
+    "total_cases": 125,
+    "fatal_cases": 22,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.176,
+    "historical_risk_score": 0.5712248148148148,
+    "risk_label": "high",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "B.Pura": {
+    "area": "B.Pura",
+    "total_cases": 121,
+    "fatal_cases": 21,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.17355371900826447,
+    "historical_risk_score": 0.5579118839914294,
+    "risk_label": "high",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Kengeri": {
+    "area": "Kengeri",
+    "total_cases": 107,
+    "fatal_cases": 22,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.205607476635514,
+    "historical_risk_score": 0.546329612322603,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "White Field": {
+    "area": "White Field",
+    "total_cases": 91,
+    "fatal_cases": 24,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.26373626373626374,
+    "historical_risk_score": 0.5436833536833537,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Hebbala": {
+    "area": "Hebbala",
+    "total_cases": 115,
+    "fatal_cases": 18,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.1565217391304348,
+    "historical_risk_score": 0.5263216586151369,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Jalahalli": {
+    "area": "Jalahalli",
+    "total_cases": 90,
+    "fatal_cases": 22,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.24444444444444444,
+    "historical_risk_score": 0.5259166666666667,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Banasawadi": {
+    "area": "Banasawadi",
+    "total_cases": 99,
+    "fatal_cases": 20,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.20202020202020202,
+    "historical_risk_score": 0.5200757575757575,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Ulsoor": {
+    "area": "Ulsoor",
+    "total_cases": 47,
+    "fatal_cases": 19,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.40425531914893614,
+    "historical_risk_score": 0.4762081363278171,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "K.R.Pura": {
+    "area": "K.R.Pura",
+    "total_cases": 64,
+    "fatal_cases": 17,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.265625,
+    "historical_risk_score": 0.45776331018518523,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Y.Pura": {
+    "area": "Y.Pura",
+    "total_cases": 79,
+    "fatal_cases": 13,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.16455696202531644,
+    "historical_risk_score": 0.4359033638068448,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "HSR Layout": {
+    "area": "HSR Layout",
+    "total_cases": 56,
+    "fatal_cases": 15,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.26785714285714285,
+    "historical_risk_score": 0.4331679894179894,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Rajajinagar": {
+    "area": "Rajajinagar",
+    "total_cases": 66,
+    "fatal_cases": 14,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.21212121212121213,
+    "historical_risk_score": 0.43059343434343433,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Banashankari": {
+    "area": "Banashankari",
+    "total_cases": 70,
+    "fatal_cases": 13,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.18571428571428572,
+    "historical_risk_score": 0.4252665343915344,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Vijayanagar": {
+    "area": "Vijayanagar",
+    "total_cases": 94,
+    "fatal_cases": 8,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0851063829787234,
+    "historical_risk_score": 0.4149960598896769,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "F.Town": {
+    "area": "F.Town",
+    "total_cases": 19,
+    "fatal_cases": 10,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.5263157894736842,
+    "historical_risk_score": 0.41226851851851853,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "RT Nagar": {
+    "area": "RT Nagar",
+    "total_cases": 65,
+    "fatal_cases": 10,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.15384615384615385,
+    "historical_risk_score": 0.3912998575498575,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Mico layout": {
+    "area": "Mico layout",
+    "total_cases": 70,
+    "fatal_cases": 9,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.12857142857142856,
+    "historical_risk_score": 0.3881474867724868,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Jayanagar": {
+    "area": "Jayanagar",
+    "total_cases": 60,
+    "fatal_cases": 10,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.16666666666666666,
+    "historical_risk_score": 0.38569444444444445,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "W.Garden": {
+    "area": "W.Garden",
+    "total_cases": 58,
+    "fatal_cases": 9,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.15517241379310345,
+    "historical_risk_score": 0.37350654533844185,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "HuliMavu": {
+    "area": "HuliMavu",
+    "total_cases": 74,
+    "fatal_cases": 6,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.08108108108108109,
+    "historical_risk_score": 0.36639514514514515,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Madivala": {
+    "area": "Madivala",
+    "total_cases": 54,
+    "fatal_cases": 8,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.14814814814814814,
+    "historical_risk_score": 0.3588888888888889,
+    "risk_label": "medium",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "S.S.Nagar": {
+    "area": "S.S.Nagar",
+    "total_cases": 64,
+    "fatal_cases": 4,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0625,
+    "historical_risk_score": 0.3321643518518519,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Malleswaram": {
+    "area": "Malleswaram",
+    "total_cases": 36,
+    "fatal_cases": 6,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.16666666666666666,
+    "historical_risk_score": 0.3204166666666667,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Basavanagudi": {
+    "area": "Basavanagudi",
+    "total_cases": 48,
+    "fatal_cases": 5,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.10416666666666667,
+    "historical_risk_score": 0.31961805555555556,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Chamarajapet": {
+    "area": "Chamarajapet",
+    "total_cases": 28,
+    "fatal_cases": 6,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.21428571428571427,
+    "historical_risk_score": 0.3191732804232804,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Chickpet": {
+    "area": "Chickpet",
+    "total_cases": 30,
+    "fatal_cases": 6,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.2,
+    "historical_risk_score": 0.31880555555555556,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Ashokanagar": {
+    "area": "Ashokanagar",
+    "total_cases": 42,
+    "fatal_cases": 5,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.11904761904761904,
+    "historical_risk_score": 0.3127480158730158,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "K G Halli": {
+    "area": "K G Halli",
+    "total_cases": 22,
+    "fatal_cases": 5,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.22727272727272727,
+    "historical_risk_score": 0.30655513468013473,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Indiranagar": {
+    "area": "Indiranagar",
+    "total_cases": 32,
+    "fatal_cases": 5,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.15625,
+    "historical_risk_score": 0.30483217592592593,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Cubbon Park": {
+    "area": "Cubbon Park",
+    "total_cases": 38,
+    "fatal_cases": 4,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.10526315789473684,
+    "historical_risk_score": 0.2962037037037037,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Upparpet": {
+    "area": "Upparpet",
+    "total_cases": 21,
+    "fatal_cases": 4,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.19047619047619047,
+    "historical_risk_score": 0.28900793650793655,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Shivajinagar": {
+    "area": "Shivajinagar",
+    "total_cases": 11,
+    "fatal_cases": 3,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.2727272727272727,
+    "historical_risk_score": 0.28872264309764306,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Magadi Road": {
+    "area": "Magadi Road",
+    "total_cases": 28,
+    "fatal_cases": 4,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.14285714285714285,
+    "historical_risk_score": 0.28839947089947093,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "City Market": {
+    "area": "City Market",
+    "total_cases": 7,
+    "fatal_cases": 2,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.2857142857142857,
+    "historical_risk_score": 0.27980820105820103,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "U.Gate": {
+    "area": "U.Gate",
+    "total_cases": 25,
+    "fatal_cases": 3,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.12,
+    "historical_risk_score": 0.27112129629629633,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "H.Grounds": {
+    "area": "H.Grounds",
+    "total_cases": 38,
+    "fatal_cases": 2,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.05263157894736842,
+    "historical_risk_score": 0.270787037037037,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Adugodi": {
+    "area": "Adugodi",
+    "total_cases": 19,
+    "fatal_cases": 2,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.10526315789473684,
+    "historical_risk_score": 0.2506018518518518,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Malleshwaram": {
+    "area": "Malleshwaram",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Hennuru": {
+    "area": "Hennuru",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Yashawanthapura": {
+    "area": "Yashawanthapura",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Yalahanka": {
+    "area": "Yalahanka",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Bellanduru": {
+    "area": "Bellanduru",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Whitefield": {
+    "area": "Whitefield",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Bytarayanapura": {
+    "area": "Bytarayanapura",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Chamarajpet": {
+    "area": "Chamarajpet",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Chikkabanavara": {
+    "area": "Chikkabanavara",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "VV Puram": {
+    "area": "VV Puram",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Chikkajala": {
+    "area": "Chikkajala",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Halasooru": {
+    "area": "Halasooru",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Thalagattapura": {
+    "area": "Thalagattapura",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Mahadevapura": {
+    "area": "Mahadevapura",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Hulimavu": {
+    "area": "Hulimavu",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Sheshadripuram/Chickpet": {
+    "area": "Sheshadripuram/Chickpet",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Int. Aiport": {
+    "area": "Int. Aiport",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "JP Nagar": {
+    "area": "JP Nagar",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Jnanabharathi": {
+    "area": "Jnanabharathi",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "R T Nagar": {
+    "area": "R T Nagar",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Pulikeshinagar": {
+    "area": "Pulikeshinagar",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "K S Layout": {
+    "area": "K S Layout",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Micolayout": {
+    "area": "Micolayout",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "Kodigehalli": {
+    "area": "Kodigehalli",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  },
+  "K R Puram": {
+    "area": "K R Puram",
+    "total_cases": 0,
+    "fatal_cases": 0,
+    "rainfall_mm": 0.0,
+    "fatality_ratio": 0.0,
+    "historical_risk_score": 0.175,
+    "risk_label": "low",
+    "source": "OpenCity Bengaluru + New Rainfall Data"
+  }
+}

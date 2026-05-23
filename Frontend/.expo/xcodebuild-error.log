@@ -1,0 +1,10 @@
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:919EF111-079A-49E6-9A29-4BCD821CA319, OS:18.3.1, name:iPhone 16 Pro }
+{ platform:iOS Simulator, id:919EF111-079A-49E6-9A29-4BCD821CA319, OS:18.3.1, name:iPhone 16 Pro }
+** BUILD FAILED **
+
+
+The following build commands failed:
+	CompileC /Users/3963829/Library/Developer/Xcode/DerivedData/northstaragenticaidayui-aquhzsjmhypbfmcbzjmjsylhibln/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/EXFileSystem.build/Objects-normal/arm64/EXFilePermissionModule.o /Users/3963829/Desktop/City-Samaachar-master/Frontend/node_modules/expo-file-system/ios/EXFileSystem/EXFilePermissionModule.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler (in target 'EXFileSystem' from project 'Pods')
+	Building workspace northstaragenticaidayui with scheme northstaragenticaidayui and configuration Debug
+(2 failures)

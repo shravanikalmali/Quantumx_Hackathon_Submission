@@ -1,0 +1,102 @@
+[
+  {
+    "id": "traffic_001",
+    "type": "road_closure",
+    "area": "Old Airport Road",
+    "lat": 12.9600,
+    "lng": 77.6500,
+    "severity": "high",
+    "description": "Road closure due to public event near Maharani College Underpass — ambulance access delayed",
+    "active": true
+  },
+  {
+    "id": "traffic_002",
+    "type": "vehicle_breakdown",
+    "area": "Silk Board",
+    "lat": 12.9177,
+    "lng": 77.6238,
+    "severity": "medium",
+    "description": "Heavy vehicle breakdown causing congestion on Silk Board flyover",
+    "active": true
+  },
+  {
+    "id": "traffic_003",
+    "type": "traffic_obstruction",
+    "area": "Hebbal",
+    "lat": 13.0358,
+    "lng": 77.5970,
+    "severity": "high",
+    "description": "Major traffic jam at Hebbal flyover junction — emergency vehicles cannot pass",
+    "active": true
+  },
+  {
+    "id": "traffic_004",
+    "type": "road_closure",
+    "area": "Majestic",
+    "lat": 12.9767,
+    "lng": 77.5713,
+    "severity": "medium",
+    "description": "Road closed for metro construction near Majestic bus stand",
+    "active": true
+  },
+  {
+    "id": "traffic_005",
+    "type": "diversion",
+    "area": "Koramangala",
+    "lat": 12.9352,
+    "lng": 77.6245,
+    "severity": "low",
+    "description": "Traffic diversion on 80ft Road due to waterlogging repair work",
+    "active": true
+  },
+  {
+    "id": "traffic_006",
+    "type": "public_event",
+    "area": "Domlur",
+    "lat": 12.9610,
+    "lng": 77.6387,
+    "severity": "medium",
+    "description": "Public event near Domlur flyover — heavy pedestrian and vehicle congestion",
+    "active": true
+  },
+  {
+    "id": "traffic_007",
+    "type": "vehicle_breakdown",
+    "area": "Electronic City",
+    "lat": 12.8456,
+    "lng": 77.6603,
+    "severity": "low",
+    "description": "Bus breakdown on Electronic City elevated expressway — partial lane closure",
+    "active": false
+  },
+  {
+    "id": "traffic_008",
+    "type": "traffic_obstruction",
+    "area": "Marathahalli",
+    "lat": 12.9591,
+    "lng": 77.6974,
+    "severity": "high",
+    "description": "Severe waterlogging causing traffic standstill near Marathahalli bridge",
+    "active": true
+  },
+  {
+    "id": "traffic_009",
+    "type": "road_closure",
+    "area": "Yelahanka",
+    "lat": 13.1007,
+    "lng": 77.5963,
+    "severity": "medium",
+    "description": "Partial road closure near Yelahanka Air Force Station — security perimeter",
+    "active": true
+  },
+  {
+    "id": "traffic_010",
+    "type": "diversion",
+    "area": "Whitefield",
+    "lat": 12.9698,
+    "lng": 77.7500,
+    "severity": "low",
+    "description": "Traffic diversion on Whitefield Main Road for drain work",
+    "active": true
+  }
+]

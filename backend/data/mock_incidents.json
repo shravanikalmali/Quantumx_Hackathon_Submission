@@ -1,0 +1,110 @@
+[
+  {
+    "id": "mock_001",
+    "source": "news",
+    "title": "Severe flooding reported in Koramangala after heavy rainfall",
+    "text": "Multiple streets in Koramangala 4th and 5th Block are waterlogged after continuous rainfall for 6 hours. Water level rising rapidly. Several cars stranded.",
+    "published": "2025-01-15T14:30:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.9352, "longitude": 77.6245}
+  },
+  {
+    "id": "mock_002",
+    "source": "reddit",
+    "title": "Flooding getting worse in Koramangala - water entering houses",
+    "text": "Water has started entering ground floor apartments in Koramangala 5th Block. Residents stuck on upper floors. Need rescue boats.",
+    "published": "2025-01-15T15:00:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.9340, "longitude": 77.6260}
+  },
+  {
+    "id": "mock_003",
+    "source": "news",
+    "title": "Koramangala flood: Storm water drain overflows",
+    "text": "The main storm water drain near Sony World junction has overflowed. Traffic completely halted. BBMP teams on site.",
+    "published": "2025-01-15T15:15:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.9355, "longitude": 77.6235}
+  },
+  {
+    "id": "mock_004",
+    "source": "user_report",
+    "title": "Fire in HSR Layout industrial warehouse",
+    "text": "Large fire visible at warehouse near HSR Layout 27th Main. Thick black smoke. Fire trucks have not arrived yet.",
+    "published": "2025-01-15T16:00:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.9081, "longitude": 77.6476}
+  },
+  {
+    "id": "mock_005",
+    "source": "reddit",
+    "title": "Fire spreading to adjacent buildings in HSR",
+    "text": "The warehouse fire in HSR is spreading. Two adjacent buildings now on fire. Residents evacuating. One injury reported.",
+    "published": "2025-01-15T16:20:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.9085, "longitude": 77.6480}
+  },
+  {
+    "id": "mock_006",
+    "source": "news",
+    "title": "Major road accident on Outer Ring Road near Marathahalli",
+    "text": "Multi-vehicle pileup on ORR near Marathahalli bridge. At least 5 vehicles involved. Several people injured. Traffic backed up for 3km.",
+    "published": "2025-01-15T17:00:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.9591, "longitude": 77.6974}
+  },
+  {
+    "id": "mock_007",
+    "source": "user_report",
+    "title": "Power outage across BTM Layout",
+    "text": "Complete power failure in BTM Layout 1st and 2nd stage since 2 hours. Hospitals running on generators. Traffic signals not working.",
+    "published": "2025-01-15T17:30:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.9166, "longitude": 77.6101}
+  },
+  {
+    "id": "mock_008",
+    "source": "reddit",
+    "title": "Power still out in BTM - getting dangerous at night",
+    "text": "BTM Layout still has no power. Streets completely dark. Two minor accidents reported due to non-functional traffic signals.",
+    "published": "2025-01-15T19:00:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.9170, "longitude": 77.6110}
+  },
+  {
+    "id": "mock_009",
+    "source": "news",
+    "title": "Building collapse in Majestic area",
+    "text": "A three-story residential building has partially collapsed near Majestic bus stand. Rescue operations underway. People feared trapped under rubble.",
+    "published": "2025-01-15T18:00:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.9767, "longitude": 77.5713}
+  },
+  {
+    "id": "mock_010",
+    "source": "user_report",
+    "title": "Gas leak reported in Electronic City",
+    "text": "Strong chemical smell near industrial area in Electronic City Phase 1. Workers complaining of dizziness. Factory evacuated.",
+    "published": "2025-01-15T20:00:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.8452, "longitude": 77.6602}
+  },
+  {
+    "id": "mock_011",
+    "source": "news",
+    "title": "Flooding continues - rescue boats deployed in Koramangala",
+    "text": "NDRF teams deployed with rescue boats in Koramangala. Over 100 families evacuated so far. Water level still rising.",
+    "published": "2025-01-15T16:00:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.9345, "longitude": 77.6250}
+  },
+  {
+    "id": "mock_012",
+    "source": "reddit",
+    "title": "Accident on ORR - ambulances can't reach due to traffic jam",
+    "text": "The pileup on ORR has caused a massive jam. Ambulances stuck. Injured people waiting for help. Someone please clear the road.",
+    "published": "2025-01-15T17:15:00+05:30",
+    "media_urls": [],
+    "location": {"latitude": 12.9595, "longitude": 77.6980}
+  }
+]

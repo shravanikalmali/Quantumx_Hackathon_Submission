@@ -1,0 +1,935 @@
+[
+  {
+    "area": "Electronic City",
+    "station": "Electronic City",
+    "total_crashes": 552,
+    "fatal_crashes": 120,
+    "fatality_ratio": 0.217,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.8394,
+    "lng": 77.677,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Kamakshipalya",
+    "station": "Kamakshipalya",
+    "total_crashes": 578,
+    "fatal_crashes": 81,
+    "fatality_ratio": 0.14,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Kengeri",
+    "station": "Kengeri",
+    "total_crashes": 656,
+    "fatal_crashes": 115,
+    "fatality_ratio": 0.175,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Peenya",
+    "station": "Peenya",
+    "total_crashes": 496,
+    "fatal_crashes": 77,
+    "fatality_ratio": 0.155,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 13.0167,
+    "lng": 77.5056,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Hebbala",
+    "station": "Hebbala",
+    "total_crashes": 485,
+    "fatal_crashes": 77,
+    "fatality_ratio": 0.159,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Grand Total",
+    "station": "Grand Total",
+    "total_crashes": 14664,
+    "fatal_crashes": 2541,
+    "fatality_ratio": 0.173,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "KR Puram",
+    "station": "K R Puram",
+    "total_crashes": 762,
+    "fatal_crashes": 109,
+    "fatality_ratio": 0.143,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 13.0265,
+    "lng": 77.6326,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Whitefield",
+    "station": "Whitefield",
+    "total_crashes": 507,
+    "fatal_crashes": 114,
+    "fatality_ratio": 0.225,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9698,
+    "lng": 77.7501,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "East Total",
+    "station": "East Total",
+    "total_crashes": 2879,
+    "fatal_crashes": 506,
+    "fatality_ratio": 0.176,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Bytarayanapura",
+    "station": "Bytarayanapura",
+    "total_crashes": 474,
+    "fatal_crashes": 60,
+    "fatality_ratio": 0.127,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "West Total",
+    "station": "West Total",
+    "total_crashes": 3643,
+    "fatal_crashes": 523,
+    "fatality_ratio": 0.144,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Yalahanka",
+    "station": "Yalahanka",
+    "total_crashes": 735,
+    "fatal_crashes": 168,
+    "fatality_ratio": 0.229,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Chikkajala",
+    "station": "Chikkajala",
+    "total_crashes": 491,
+    "fatal_crashes": 116,
+    "fatality_ratio": 0.236,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Int. Aiport",
+    "station": "Int. Aiport",
+    "total_crashes": 618,
+    "fatal_crashes": 161,
+    "fatality_ratio": 0.261,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Hennuru",
+    "station": "Hennuru",
+    "total_crashes": 318,
+    "fatal_crashes": 77,
+    "fatality_ratio": 0.242,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "North Total",
+    "station": "North Total",
+    "total_crashes": 4684,
+    "fatal_crashes": 928,
+    "fatality_ratio": 0.198,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Thalagattapura",
+    "station": "Thalagattapura",
+    "total_crashes": 364,
+    "fatal_crashes": 70,
+    "fatality_ratio": 0.192,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "South Total",
+    "station": "South Total",
+    "total_crashes": 3458,
+    "fatal_crashes": 584,
+    "fatality_ratio": 0.169,
+    "historical_risk_score": 1.0,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "K S Layout",
+    "station": "K S Layout",
+    "total_crashes": 341,
+    "fatal_crashes": 47,
+    "fatality_ratio": 0.138,
+    "historical_risk_score": 0.97,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Yashawanthapura",
+    "station": "Yashawanthapura",
+    "total_crashes": 306,
+    "fatal_crashes": 64,
+    "fatality_ratio": 0.209,
+    "historical_risk_score": 0.968,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Mahadevapura",
+    "station": "Mahadevapura",
+    "total_crashes": 328,
+    "fatal_crashes": 52,
+    "fatality_ratio": 0.159,
+    "historical_risk_score": 0.964,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Indiranagar",
+    "station": "Indiranagar",
+    "total_crashes": 302,
+    "fatal_crashes": 57,
+    "fatality_ratio": 0.189,
+    "historical_risk_score": 0.932,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.6408,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Kempegowda Airport",
+    "station": "Airport",
+    "total_crashes": 267,
+    "fatal_crashes": 60,
+    "fatality_ratio": 0.225,
+    "historical_risk_score": 0.874,
+    "risk_label": "critical",
+    "lat": 13.1986,
+    "lng": 77.7066,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Rajajinagar",
+    "station": "Rajajinagar",
+    "total_crashes": 292,
+    "fatal_crashes": 39,
+    "fatality_ratio": 0.134,
+    "historical_risk_score": 0.84,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Hulimavu",
+    "station": "Hulimavu",
+    "total_crashes": 269,
+    "fatal_crashes": 50,
+    "fatality_ratio": 0.186,
+    "historical_risk_score": 0.838,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Madivala",
+    "station": "Madivala",
+    "total_crashes": 265,
+    "fatal_crashes": 50,
+    "fatality_ratio": 0.189,
+    "historical_risk_score": 0.83,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Jnanabharathi",
+    "station": "Jnanabharathi",
+    "total_crashes": 299,
+    "fatal_crashes": 40,
+    "fatality_ratio": 0.134,
+    "historical_risk_score": 0.825,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Micolayout",
+    "station": "Micolayout",
+    "total_crashes": 256,
+    "fatal_crashes": 52,
+    "fatality_ratio": 0.203,
+    "historical_risk_score": 0.82,
+    "risk_label": "critical",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Banashankari",
+    "station": "Banashankari",
+    "total_crashes": 254,
+    "fatal_crashes": 38,
+    "fatality_ratio": 0.15,
+    "historical_risk_score": 0.76,
+    "risk_label": "high",
+    "lat": 12.928,
+    "lng": 77.55,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Jalahalli",
+    "station": "Jalahalli",
+    "total_crashes": 227,
+    "fatal_crashes": 51,
+    "fatality_ratio": 0.225,
+    "historical_risk_score": 0.758,
+    "risk_label": "high",
+    "lat": 13.0597,
+    "lng": 77.5447,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Banasawadi",
+    "station": "Banasawadi",
+    "total_crashes": 257,
+    "fatal_crashes": 30,
+    "fatality_ratio": 0.117,
+    "historical_risk_score": 0.734,
+    "risk_label": "high",
+    "lat": 13.0076,
+    "lng": 77.6485,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Jayanagar",
+    "station": "Jayanagar",
+    "total_crashes": 241,
+    "fatal_crashes": 36,
+    "fatality_ratio": 0.149,
+    "historical_risk_score": 0.726,
+    "risk_label": "high",
+    "lat": 12.9295,
+    "lng": 77.5804,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Basavanagudi",
+    "station": "Basavanagudi",
+    "total_crashes": 274,
+    "fatal_crashes": 17,
+    "fatality_ratio": 0.062,
+    "historical_risk_score": 0.716,
+    "risk_label": "high",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Malleshwaram",
+    "station": "Malleshwaram",
+    "total_crashes": 223,
+    "fatal_crashes": 34,
+    "fatality_ratio": 0.152,
+    "historical_risk_score": 0.682,
+    "risk_label": "high",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Vijayanagar",
+    "station": "Vijayanagar",
+    "total_crashes": 214,
+    "fatal_crashes": 34,
+    "fatality_ratio": 0.159,
+    "historical_risk_score": 0.664,
+    "risk_label": "high",
+    "lat": 12.9716,
+    "lng": 77.5404,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "HSR Layout",
+    "station": "HSR Layout",
+    "total_crashes": 181,
+    "fatal_crashes": 40,
+    "fatality_ratio": 0.221,
+    "historical_risk_score": 0.622,
+    "risk_label": "high",
+    "lat": 12.9081,
+    "lng": 77.6388,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Chikkabanavara",
+    "station": "Chikkabanavara",
+    "total_crashes": 207,
+    "fatal_crashes": 29,
+    "fatality_ratio": 0.14,
+    "historical_risk_score": 0.597,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Bellanduru",
+    "station": "Bellanduru",
+    "total_crashes": 176,
+    "fatal_crashes": 34,
+    "fatality_ratio": 0.193,
+    "historical_risk_score": 0.588,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Halasuru",
+    "station": "Halasooru",
+    "total_crashes": 171,
+    "fatal_crashes": 31,
+    "fatality_ratio": 0.181,
+    "historical_risk_score": 0.566,
+    "risk_label": "medium",
+    "lat": 12.9784,
+    "lng": 77.6408,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "U.Gate",
+    "station": "U.Gate",
+    "total_crashes": 189,
+    "fatal_crashes": 18,
+    "fatality_ratio": 0.095,
+    "historical_risk_score": 0.55,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Adugodi",
+    "station": "Adugodi",
+    "total_crashes": 179,
+    "fatal_crashes": 22,
+    "fatality_ratio": 0.123,
+    "historical_risk_score": 0.546,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "R T Nagar",
+    "station": "R T Nagar",
+    "total_crashes": 176,
+    "fatal_crashes": 22,
+    "fatality_ratio": 0.125,
+    "historical_risk_score": 0.54,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "W.Garden",
+    "station": "W.Garden",
+    "total_crashes": 164,
+    "fatal_crashes": 20,
+    "fatality_ratio": 0.122,
+    "historical_risk_score": 0.508,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "S.S.Nagar",
+    "station": "S.S.Nagar",
+    "total_crashes": 162,
+    "fatal_crashes": 17,
+    "fatality_ratio": 0.105,
+    "historical_risk_score": 0.492,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "H.Grounds",
+    "station": "H.Grounds",
+    "total_crashes": 162,
+    "fatal_crashes": 15,
+    "fatality_ratio": 0.093,
+    "historical_risk_score": 0.484,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "KG Halli",
+    "station": "K G Halli",
+    "total_crashes": 142,
+    "fatal_crashes": 24,
+    "fatality_ratio": 0.169,
+    "historical_risk_score": 0.48,
+    "risk_label": "medium",
+    "lat": 12.9791,
+    "lng": 77.5858,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Upparpet",
+    "station": "Upparpet",
+    "total_crashes": 122,
+    "fatal_crashes": 31,
+    "fatality_ratio": 0.254,
+    "historical_risk_score": 0.468,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Cubbon Park",
+    "station": "Cubbon Park",
+    "total_crashes": 154,
+    "fatal_crashes": 8,
+    "fatality_ratio": 0.052,
+    "historical_risk_score": 0.44,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Ashokanagar",
+    "station": "Ashokanagar",
+    "total_crashes": 113,
+    "fatal_crashes": 24,
+    "fatality_ratio": 0.212,
+    "historical_risk_score": 0.422,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Magadi Road",
+    "station": "Magadi Road",
+    "total_crashes": 129,
+    "fatal_crashes": 13,
+    "fatality_ratio": 0.101,
+    "historical_risk_score": 0.41,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "City Market",
+    "station": "City Market",
+    "total_crashes": 105,
+    "fatal_crashes": 23,
+    "fatality_ratio": 0.219,
+    "historical_risk_score": 0.402,
+    "risk_label": "medium",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Chickpet",
+    "station": "Chickpet",
+    "total_crashes": 87,
+    "fatal_crashes": 17,
+    "fatality_ratio": 0.195,
+    "historical_risk_score": 0.309,
+    "risk_label": "low",
+    "lat": 12.9698,
+    "lng": 77.5807,
+    "years_covered": [
+      "2023",
+      "2024"
+    ]
+  },
+  {
+    "area": "Kodigehalli",
+    "station": "Kodigehalli",
+    "total_crashes": 110,
+    "fatal_crashes": 13,
+    "fatality_ratio": 0.118,
+    "historical_risk_score": 0.305,
+    "risk_label": "low",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2025"
+    ]
+  },
+  {
+    "area": "Shivajinagar",
+    "station": "Shivajinagar",
+    "total_crashes": 79,
+    "fatal_crashes": 11,
+    "fatality_ratio": 0.139,
+    "historical_risk_score": 0.302,
+    "risk_label": "low",
+    "lat": 12.9784,
+    "lng": 77.5809,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Pulikeshinagar",
+    "station": "Pulikeshinagar",
+    "total_crashes": 64,
+    "fatal_crashes": 18,
+    "fatality_ratio": 0.281,
+    "historical_risk_score": 0.3,
+    "risk_label": "low",
+    "lat": 13.0115,
+    "lng": 77.652,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "Chamarajpet",
+    "station": "Chamarajpet",
+    "total_crashes": 61,
+    "fatal_crashes": 8,
+    "fatality_ratio": 0.131,
+    "historical_risk_score": 0.254,
+    "risk_label": "low",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  {
+    "area": "JP Nagar",
+    "station": "JP Nagar",
+    "total_crashes": 43,
+    "fatal_crashes": 3,
+    "fatality_ratio": 0.07,
+    "historical_risk_score": 0.131,
+    "risk_label": "low",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2025"
+    ]
+  },
+  {
+    "area": "Sheshadripuram/Chickpet",
+    "station": "Sheshadripuram/Chickpet",
+    "total_crashes": 18,
+    "fatal_crashes": 3,
+    "fatality_ratio": 0.167,
+    "historical_risk_score": 0.081,
+    "risk_label": "low",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2025"
+    ]
+  },
+  {
+    "area": "VV Puram",
+    "station": "VV Puram",
+    "total_crashes": 19,
+    "fatal_crashes": 1,
+    "fatality_ratio": 0.053,
+    "historical_risk_score": 0.075,
+    "risk_label": "low",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "years_covered": [
+      "2025"
+    ]
+  }
+]
